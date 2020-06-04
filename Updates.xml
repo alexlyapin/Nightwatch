@@ -6,12 +6,12 @@
   <Name>Nightwatch</Name>
   <DisplayName>Nightwatch</DisplayName>
   <Description>Nightwatch client</Description>
-  <Version>1.0</Version>
+  <Version>1.1</Version>
   <ReleaseDate>2020-06-04</ReleaseDate>
   <SortingPriority>40</SortingPriority>
   <Checkable>false</Checkable>
-  <UpdateFile UncompressedSize="69558619" OS="Any" CompressedSize="17241828"/>
+  <UpdateFile OS="Any" CompressedSize="17243225" UncompressedSize="69562203"/>
   <DownloadableArchives>iconengines.7z,imageformats.7z,platforms.7z,styles.7z,translations.7z,content.7z</DownloadableArchives>
-  <SHA1>616e63af887df0597976b82bdd2935f7e77d1d72</SHA1>
+  <SHA1>85759185daa7ac805f766512571eaf232007817a</SHA1>
  </PackageUpdate>
 </Updates>
