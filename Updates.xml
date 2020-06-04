@@ -10,8 +10,8 @@
   <ReleaseDate>2020-06-04</ReleaseDate>
   <SortingPriority>40</SortingPriority>
   <Checkable>false</Checkable>
-  <UpdateFile UncompressedSize="68058459" OS="Any" CompressedSize="16937351"/>
+  <UpdateFile UncompressedSize="69558619" OS="Any" CompressedSize="17241828"/>
   <DownloadableArchives>iconengines.7z,imageformats.7z,platforms.7z,styles.7z,translations.7z,content.7z</DownloadableArchives>
-  <SHA1>3dbaa26441c68641805244091b2526478897a470</SHA1>
+  <SHA1>616e63af887df0597976b82bdd2935f7e77d1d72</SHA1>
  </PackageUpdate>
 </Updates>
