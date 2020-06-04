@@ -1,0 +1,17 @@
+<Updates>
+ <ApplicationName>{AnyApplication}</ApplicationName>
+ <ApplicationVersion>1.0.0</ApplicationVersion>
+ <Checksum>true</Checksum>
+ <PackageUpdate>
+  <Name>Nightwatch</Name>
+  <DisplayName>Nightwatch</DisplayName>
+  <Description>Nightwatch client</Description>
+  <Version>1.0</Version>
+  <ReleaseDate>2020-06-04</ReleaseDate>
+  <SortingPriority>40</SortingPriority>
+  <Checkable>false</Checkable>
+  <UpdateFile UncompressedSize="68058459" OS="Any" CompressedSize="16937351"/>
+  <DownloadableArchives>iconengines.7z,imageformats.7z,platforms.7z,styles.7z,translations.7z,content.7z</DownloadableArchives>
+  <SHA1>3dbaa26441c68641805244091b2526478897a470</SHA1>
+ </PackageUpdate>
+</Updates>
